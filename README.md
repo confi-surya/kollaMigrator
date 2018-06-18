@@ -1,4 +1,4 @@
-# kolla-migrator
+# Kolla-migrator
 
 Tool that poll the operation to remote server and applies them to local/remote server.
 
